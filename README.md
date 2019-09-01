@@ -1,7 +1,15 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work and sausages
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos and sausages
+
+## Section 2
+
+blah blahblah
+
+## Section 3
+Gar ma nar nar!
+
